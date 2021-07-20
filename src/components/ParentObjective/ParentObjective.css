@@ -1,0 +1,8 @@
+.subList {
+  list-style-type: lower-alpha;
+}
+
+.subList_item {
+  padding: 5px 0;
+  font-size: 14px;
+}

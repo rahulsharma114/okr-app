@@ -1,0 +1,15 @@
+.accordian {
+  margin-bottom: 5px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.accordianTitle {
+  display: flex;
+  padding: 10px;
+  background-color: #e8f4f8;
+  cursor: pointer;
+}
+
+.accordianToggleIcon {
+  margin-right: 10px;
+}

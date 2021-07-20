@@ -1,0 +1,19 @@
+.App {
+  text-align: left;
+  font-family: "Open Sans", sans-serif;
+  margin: 20px;
+}
+
+.filterSelect {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.filterLabel {
+  margin-right: 10px;
+}
+
+.list {
+  list-style-type: decimal;
+}
